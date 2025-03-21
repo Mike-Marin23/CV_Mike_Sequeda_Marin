@@ -13,7 +13,7 @@
 - Gestión de mercado
 
 ## 🎓 Educación
-### **Servicio Nacional De Aprendizaje** _(2023 - 2025)_
+### **Servicio Nacional De Aprendizaje SENA** _(2023 - 2025)_
 - Tecnologo en Gestión de mercado
 ## 💡 Habilidades
 - Creatividad: Aptitud para pensar de manera innovadora y generar ideas originales que resuenen con los consumidores y diferencien a la marca de sus competidores.
