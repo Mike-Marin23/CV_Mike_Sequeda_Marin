@@ -2,7 +2,7 @@
 # Hoja de Vida
 
 ## Mike Sequeda Marin
-**Profesión:** Tecnologo en Gestión de mercado
+**Profesión:** Tecnólogo en Gestión de mercado
 # Perfil 
 Soy un profesional entusiasta y motivado con una formación sólida en marketing y una gran disposición para aprender. Aunque cuento con experiencia limitada en el campo del marketing  me gusta la investigación de mercados y la creación de estrategias orientadas al crecimiento. Me considero una persona creativa, con buenas habilidades de comunicación y con un fuerte deseo de contribuir al éxito de la empresa mediante la optimización de estrategias de marketing y la mejora de la experiencia del cliente.
 
