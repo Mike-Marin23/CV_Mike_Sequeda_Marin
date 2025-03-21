@@ -8,8 +8,7 @@ Soy un profesional entusiasta y motivado con una formación sólida en marketing
 
 ## 📞 Contacto
 - **Email:** mikemarin342.com
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-
+- **LinkedIn:** www.linkedin.com/in/mike-marin-a33b7a357
 ## 🏢 Experiencia Laboral
 ### **Quality Water** _(2025 - Actualidad)_
 - Gestión de mercado
