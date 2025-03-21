@@ -7,7 +7,7 @@
 Soy un profesional entusiasta y motivado con una formación sólida en marketing y una gran disposición para aprender. Aunque cuento con experiencia limitada en el campo del marketing  me gusta la investigación de mercados y la creación de estrategias orientadas al crecimiento. Me considero una persona creativa, con buenas habilidades de comunicación y con un fuerte deseo de contribuir al éxito de la empresa mediante la optimización de estrategias de marketing y la mejora de la experiencia del cliente.
 
 ## 📞 Contacto
-- **Email:** mikemarin342.com
+- **Email:** (mikemarin342.com)
 - **LinkedIn:** www.linkedin.com/in/mike-marin-a33b7a357
 ## 🏢 Experiencia Laboral
 ### **Quality Water** _(2025 - Actualidad)_
