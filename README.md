@@ -1,74 +1,21 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Mike Sequeda Marin
+**Profesión:** Tecnologo en Gestión de mercado
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** mikemarin342.com
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Quality Water** _(2025 - Actualidad)_
+- Gestión de mercado
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
-
+### **Servicio Nacional De Aprendizaje** _(2023 - 2025)_
+- Tecnologo en Gestión de mercado
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
-
----
-
-## 🎨 Formatos y Fuentes Disponibles
-
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
-
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
-
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
-
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
-
-### **Citas:**
-> Esto es una cita
-
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
-
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
-
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
-
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
-
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
-| Dato 1     | Dato 2      |
-
----
-
-Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
-
+- Creatividad: Aptitud para pensar de manera innovadora y generar ideas originales que resuenen con los consumidores y diferencien a la marca de sus competidores.
+- Comunicación efectiva: Habilidad para comunicar de manera clara y persuasiva, tanto de forma escrita como verbal, con diferentes audiencias, incluyendo clientes, equipos internos y socios.
+- Trabajo en equipo y liderazgo: Ser capaz de liderar equipos multidisciplinarios, motivar a otros y colaborar con diferentes áreas de la empresa, como ventas, producto y atención al cliente
