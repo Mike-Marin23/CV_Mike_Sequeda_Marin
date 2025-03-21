@@ -12,7 +12,7 @@ Análisis de datos de mercado: Recopilación, análisis e interpretación de dat
 Merchandising: Diseño y ejecución de estrategias de visual merchandising, gestión de inventario en el punto de venta, y optimización de la experiencia del cliente para impulsar las ventas.
 
 ## 📞 Contacto
-- **Email:** [mikemarin342.com](mailto:mikemarin342@gmail.com)
+- **Email:** [mikemarin342@gmail.com](mailto:mikemarin342@gmail.com)
 - **LinkedIn:** www.linkedin.com/in/mike-marin-a33b7a357
 ## 🏢 Experiencia Laboral
 ### **Quality Water** _(2025 - Actualidad)_
